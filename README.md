@@ -9,18 +9,12 @@
 - C#
 - C++
 - C
-- JavaScript
-
-### I know Frameworks:
-- Nodejs
 
 ### I'm learn frameworks like:
-
-- Angular
+- NodeJs
 - React
-- Deno
 
 ### I'm learn Language like:
 - Java
-- Typescript
+- JavaScript
 - Python
