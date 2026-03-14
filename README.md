@@ -19,3 +19,10 @@ backend:
     <img src="https://skillicons.dev/icons?i=js,nodejs,express,cs,java,spring,postgres&theme=light" />
   </a>
 </p>
+<br/>
+frontend:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,tailwind,react,astro" />
+  </a>
+</p>
