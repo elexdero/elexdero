@@ -5,4 +5,10 @@
 
 - Computer Engineering at [IPN/UPIICSA](https://www.upiicsa.ipn.mx/)
 - Campus Leader of [Binary Brains](https://github.com/binarybrains-club)
-  
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+[![My skills in backend:](https://skillicons.dev/icons?i=js,nodejs,c#,java,srpringboot,postgres)](https://skillicons.dev)
