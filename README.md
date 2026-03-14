@@ -23,6 +23,13 @@ backend:
 frontend:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,tailwind,react,astro" />
+    <img src="https://skillicons.dev/icons?i=js,html,tailwind,react,astro&theme=light" />
+  </a>
+</p>
+<br/>
+My tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,notion,discord,pnmp,arch,windows,vscode,idea&theme=light" />
   </a>
 </p>
