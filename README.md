@@ -2,8 +2,8 @@
 
 <br/>
 <br/>
-- Computer Engineering at [IPN/UPIICSA](https://www.upiicsa.ipn.mx/)
-- Campus Leader of [Binary Brains](https://github.com/binarybrains-club)
+-Computer Engineering at [IPN/UPIICSA](https://www.upiicsa.ipn.mx/)
+-Campus Leader of [Binary Brains](https://github.com/binarybrains-club)
 
 <br/>
 <br/>
