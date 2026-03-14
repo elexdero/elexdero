@@ -30,6 +30,6 @@ frontend:
 My tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,notion,discord,pnmp,arch,windows,vscode,idea&theme=light" />
+    <img src="https://skillicons.dev/icons?i=figma,notion,discord,pnpm,arch,windows,vscode,idea&theme=light" />
   </a>
 </p>
