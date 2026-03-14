@@ -31,4 +31,4 @@ My tools:
   </a>
 </p>
 
-https://raw.githubusercontent.com/elexdero/elexdero/output/snake.svg
+[](https://raw.githubusercontent.com/elexdero/elexdero/output/snake.svg)
