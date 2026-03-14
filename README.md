@@ -11,4 +11,4 @@
 <br/>
 <br/>
 
-[![My skills in backend:](https://skillicons.dev/icons?i=js,nodejs,c#,java,srpringboot,postgres)](https://skillicons.dev)
+[![My skills in backend:](https://skillicons.dev/icons?i=js,nodejs,express,cs,java,spring,postgres)](https://skillicons.dev)
