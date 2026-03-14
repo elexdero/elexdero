@@ -30,3 +30,5 @@ My tools:
     <img src="https://skillicons.dev/icons?i=figma,notion,discord,pnpm,arch,windows,vscode,idea&theme=light" />
   </a>
 </p>
+
+https://raw.githubusercontent.com/elexdero/elexdero/output/snake.svg
