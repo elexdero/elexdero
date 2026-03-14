@@ -11,4 +11,11 @@
 <br/>
 <br/>
 
-[![My skills in backend:](https://skillicons.dev/icons?i=js,nodejs,express,cs,java,spring,postgres)](https://skillicons.dev)
+### Language and Tools
+<br/>
+backend:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,cs,java,spring,postgres&theme=light" />
+  </a>
+</p>
